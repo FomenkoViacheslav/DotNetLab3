@@ -1,0 +1,17 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\bin\Debug\net7.0-windows\DotNetLab3.1.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\bin\Debug\net7.0-windows\DotNetLab3.1.deps.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\bin\Debug\net7.0-windows\DotNetLab3.1.runtimeconfig.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\bin\Debug\net7.0-windows\DotNetLab3.1.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\bin\Debug\net7.0-windows\DotNetLab3.1.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3._1.Form1.resources
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.csproj.GenerateResource.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.AssemblyInfoInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.AssemblyInfo.cs
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\refint\DotNetLab3.1.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3.1.genruntimeconfig.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\ref\DotNetLab3.1.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task1\DotNetLab3.1\obj\Debug\net7.0-windows\DotNetLab3._1.Load_form.resources

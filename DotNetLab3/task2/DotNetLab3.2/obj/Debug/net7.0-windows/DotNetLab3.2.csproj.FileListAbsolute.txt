@@ -1,0 +1,16 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\bin\Debug\net7.0-windows\DotNetLab3.2.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\bin\Debug\net7.0-windows\DotNetLab3.2.deps.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\bin\Debug\net7.0-windows\DotNetLab3.2.runtimeconfig.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\bin\Debug\net7.0-windows\DotNetLab3.2.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\bin\Debug\net7.0-windows\DotNetLab3.2.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3._2.Form1.resources
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.csproj.GenerateResource.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.AssemblyInfoInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.AssemblyInfo.cs
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\refint\DotNetLab3.2.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\DotNetLab3.2.genruntimeconfig.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\DotNetLab3\task2\DotNetLab3.2\obj\Debug\net7.0-windows\ref\DotNetLab3.2.dll
